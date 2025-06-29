@@ -1,0 +1,10 @@
+# to open label studio command
+label-studio start
+
+# export data format (yolo with images)
+
+# Annotation format
+object detection --> object detection with bounding boxes
+iamge segmentation -->  semantic segmentation with poylgons
+
+
